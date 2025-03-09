@@ -1,0 +1,33 @@
+[
+    { 
+        "id": 1,
+        "name": "Birthday Special",
+        "title": "Celebrate Your Birthday with Us!",
+        "body": [
+        "Mark your calendars! Eat Le Mou is turning up the flavor with a special birthday bash menu packed with delectable treats.",
+        "We're offering special discounts on these customer favorites.",
+        "Herbal Silkie Chicken Soup: Warm your soul with this nourishing and flavorful soup, now at a discounted price of RM79.20 (usual price RM88.00).",
+        "Pineapple Fried Rice: Savor the vibrant flavors of this classic stir-fry, available at a special price for just RM61.20 (usual price RM68.00).",
+        "Cantonese Steamed Fish: Experience the delicate taste of perfectly steamed fish, for only RM34.20 (usual price RM36.00)."
+        ],
+        "footer": "Make your birthday extra special with these tempting treats! Available at your nearest Eat Le Mou restaurant.",
+        "image":"../img/promotion/BirthdaySpecial.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Morning Special",
+        "title": "Start Your Day with Delicious Morning Special!",
+        "body": [
+          "Enjoy a satisfying and delicious breakfast at Eat Le Mou with our special Morning Set menu! This limited-time offer is available from 9:00am to 11:00am (Mon - Fri) only.",
+          "Our Morning Special allows you to create your ideal breakfast combination.",
+          "Vegan Congee:A light and healthy option packed with flavor.",
+          "Chicken Congee:A comforting and savory classic.",
+          "Plus Your Choice with Two Delicious Sides",
+          "Lotus Root Soup:A delightful addition to your meal.",
+          "Gui Ling Gao:A traditional Chinese brown sugar cake for a touch of sweetness.",
+          "All for Only RM28.60!"
+        ],
+        "footer": "Don't miss out on this fantastic way to start your day. Come on down to Eat Le Mou and experience the taste of a perfect morning!",
+        "image": "../img/promotion/MorningSpecial.jpg"
+      }
+]

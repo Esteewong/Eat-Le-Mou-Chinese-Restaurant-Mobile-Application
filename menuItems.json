@@ -1,0 +1,742 @@
+[
+    {
+      "id": 3,
+      "name": "Kung Pao Chicken",
+      "category": "Chicken",
+      "description": "A classic Sichuan dish known for its spicy and tangy flavor profile. It typically consists of diced chicken stir-fried with peanuts, vegetables (such as bell peppers and zucchini), and chili peppers in a sauce made with soy sauce, vinegar, and sugar.",
+      "price": 28.80,
+      "image": "../img/menu/Chicken/KungPaoChicken.jpg",
+      "isTopSales": true
+    },
+    {
+        "id": 4,
+        "name": "Stir Fried Chicken with Cashew Nuts",
+        "category": "Chicken",
+        "description": "A savory dish featuring tender chicken pieces stir-fried with crunchy cashew nuts, bell peppers, onions, and celery in a light soy-based sauce, creating a delightful combination of textures and flavors.",
+        "price": 28.80,
+        "image": "../img/menu/Chicken/StirFriedChickenwithCashewNuts.jpg",
+        "isTopSales": true
+    },
+    {
+        "id": 5,
+        "name": "White Cut Chicken",
+        "category": "Chicken",
+        "description": "A traditional Chinese dish where chicken is poached in a flavorful broth made with ginger, scallions, and sometimes Shaoxing wine, resulting in tender and succulent meat served with a light dipping sauce typically made from soy sauce and sesame oil.",
+        "price": 28.80,
+        "image": "../img/menu/Chicken/WhiteCutChicken.jpg",
+        "isTopSales": true
+    },
+    {
+        "id": 6,
+        "name": "Three Cup Chicken",
+        "category": "Chicken",
+        "description": "A Taiwanese specialty featuring chicken cooked in a sauce made from equal parts soy sauce, sesame oil, and rice wine, along with garlic, ginger, and basil, resulting in a rich and aromatic dish with a slightly sweet and savory flavor profile.",
+        "price": 28.80,
+        "image": "../img/menu/Chicken/ThreeCupChicken.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Sweet and Sour Chicken",
+        "category": "Chicken",
+        "description": "A popular Chinese-American dish featuring crispy battered chicken pieces tossed in a tangy and sweet sauce made with vinegar, ketchup, sugar, and soy sauce, often combined with bell peppers, onions, and pineapple for added flavor and texture.",
+        "price": 28.80,
+        "image": "../img/menu/Chicken/SweetandSourChicken.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Creamy Butter Chicken",
+        "category": "Chicken",
+        "description": "A fusion dish with Indian origins, where tender chicken pieces are cooked in a creamy and mildly spiced tomato-based sauce enriched with butter, cream, and aromatic spices like garam masala, creating a luscious and indulgent dish often served with rice or",
+        "price": 28.80,
+        "image": "../img/menu/Chicken/CreamyButterChicken.jpg",
+        "redeem": true,
+        "points": 850
+    },
+    {
+        "id": 9,
+        "name": "Steamed Chicken Cabbage Roll",
+        "category": "Chicken",
+        "description": "A healthier option where chicken is seasoned and wrapped in cabbage leaves, then steamed until tender and flavorful, often served with a light sauce or dipping condiment for added flavor.",
+        "price": 28.80,
+        "image": "../img/menu/Chicken/SteamedChickenCabbageRoll.jpg"
+    },
+    {
+        "id": 10,
+        "name": "General Tso Chicken",
+        "category": "Chicken",
+        "description": "A beloved Chinese-American dish featuring crispy chicken pieces coated in a sweet and spicy sauce made with soy sauce, hoisin sauce, ginger, garlic, and chili peppers, often served with steamed broccoli or rice.",
+        "price": 28.80,
+        "image": "../img/menu/Chicken/GeneralTsoChicken.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Braised Chicken",
+        "category": "Chicken",
+        "description": "A comforting dish where chicken pieces are simmered slowly in a flavorful broth along with vegetables such as carrots, potatoes, and mushrooms, resulting in tender and juicy meat infused with the rich and savory flavors of the broth.",
+        "price": 28.80,
+        "image": "../img/menu/Chicken/BraisedChicken.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Apple Iced Tea",
+        "category": "Beverages",
+        "description": "A refreshing blend of black or green tea infused with the crisp and sweet flavor of apple, served chilled over ice for a cool and invigorating drink.",
+        "price": 15.90,
+        "image": "../img/menu/Beverages/AppleIcedTea.jpg",
+        "isTopSales": true
+    },
+    {
+        "id": 13,
+        "name": "Grape Iced Tea",
+        "category": "Beverages",
+        "description": "A delightful combination of black or green tea infused with the sweet and tangy essence of grape, creating a refreshing beverage perfect for hot days.",
+        "price": 15.90,
+        "image": "../img/menu/Beverages/GrapeIcedTea.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Iced Passion Tea Lemonade",
+        "category": "Beverages",
+        "description": "A vibrant and tangy drink made by combining brewed passion tea with lemonade, served over ice for a refreshing and citrusy flavor experience.",
+        "price": 15.90,
+        "image": "../img/menu/Beverages/IcedPassionTeaLemonade.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Iced Peach Green Tea Lemonade",
+        "category": "Beverages",
+        "description": "A refreshing concoction featuring a blend of green tea, peach flavoring, and lemonade, served chilled over ice for a sweet and tart flavor profile with a hint of peachy goodness.",
+        "price": 15.90,
+        "image": "../img/menu/Beverages/IcedPeachGreenTeaLemonade.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Southern Strawberry Iced Sweet Tea",
+        "category": "Beverages",
+        "description": "A delicious fusion of black or green tea infused with the sweet and juicy flavor of strawberries, served cold over ice for a refreshing and fruity beverage.",
+        "price": 15.90,
+        "image": "../img/menu/Beverages/SouthernStrawberryIcedSweetTea.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Lemon Iced Tea",
+        "category": "Beverages",
+        "description": "A classic summer drink made by combining brewed black or green tea with freshly squeezed lemon juice and sweetener, served over ice for a zesty and refreshing flavor.",
+        "price": 12.90,
+        "image": "../img/menu/Beverages/LemonIcedTea.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Carrot Milk",
+        "category": "Beverages",
+        "description": "A unique and nutritious beverage made by blending fresh carrot juice with milk, often sweetened with a touch of honey or sugar, creating a creamy and slightly sweet drink packed with vitamins and minerals.",
+        "price": 12.90,
+        "image": "../img/menu/Beverages/CarrotMilk.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Orange Iced Tea",
+        "category": "Beverages",
+        "description": "A refreshing twist on traditional iced tea, featuring black or green tea infused with the bright and citrusy flavor of orange, served over ice for a refreshing and tangy beverage.",
+        "price": 12.90,
+        "image": "../img/menu/Beverages/OrangeIcedTea.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Watermelon Juice",
+        "category": "Beverages",
+        "description": "A hydrating and refreshing drink made by juicing fresh watermelon, served chilled for a sweet and juicy flavor that is perfect for quenching your thirst on a hot day.",
+        "price": 12.90,
+        "image": "../img/menu/Beverages/WatermelonJuice.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Soy Milk",
+        "category": "Beverages",
+        "description": "A dairy-free alternative to traditional milk made from soybeans, offering a creamy texture and mild flavor that is often enjoyed on its own or used as a base for smoothies and other beverages.",
+        "price": 8.90,
+        "image": "../img/menu/Beverages/SoyMilk.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Plain Congee",
+        "category": "Congee",
+        "description": "A simple and comforting rice porridge made by simmering rice in water or broth until it breaks down into a creamy consistency, often served as a blank canvas for various toppings and flavorings.",
+        "price": 10.80,
+        "image": "../img/menu/Congee/PlainCongee.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Century Egg and Pork Congee",
+        "category": "Congee",
+        "description": "Congee enriched with century eggs (preserved duck eggs) and tender pork, offering a rich and savory flavor with a unique and slightly pungent taste from the preserved eggs.",
+        "price": 18.80,
+        "image": "../img/menu/Congee/CenturyEggandPorkCongee.jpg",
+        "isTopSales": true
+    },
+    {
+        "id": 24,
+        "name": "Chicken Congee",
+        "category": "Congee",
+        "description": "Congee flavored with tender pieces of chicken, creating a hearty and satisfying dish often garnished with green onions, ginger, and sometimes a drizzle of sesame oil for added aroma.",
+        "price": 18.80,
+        "image": "../img/menu/Congee/ChickenCongee.jpg",
+        "redeem": true,
+        "points": 850
+    },
+    {
+        "id": 25,
+        "name": "Vegan Congee",
+        "category": "Congee",
+        "description": "A plant-based version of congee made without any animal products, often featuring a variety of vegetables, tofu, and mushrooms for flavor and texture.",
+        "price": 18.80,
+        "image": "../img/menu/Congee/VeganCongee.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Fish Congee",
+        "category": "Congee",
+        "description": "Congee infused with the delicate flavor of fish, usually flaked or diced and added to the simmering rice, creating a light and nourishing dish often garnished with cilantro and green onions.",
+        "price": 18.80,
+        "image": "../img/menu/Congee/FishCongee.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Mushroom Congee",
+        "category": "Congee",
+        "description": "Congee enhanced with the earthy and savory taste of mushrooms, such as shiitake or button mushrooms, adding depth of flavor and a meaty texture to the dish.",
+        "price": 18.80,
+        "image": "../img/menu/Congee/MushroomCongee.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Pumpkin Congee",
+        "category": "Congee",
+        "description": "Congee enriched with the sweet and creamy texture of pumpkin, offering a unique twist on traditional congee with a subtle hint of sweetness.",
+        "price": 18.80,
+        "image": "../img/menu/Congee/PumpkinCongee.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Salted Pork and Preserved Egg Congee",
+        "category": "Congee",
+        "description": "Congee flavored with savory salted pork and the distinct flavor of preserved eggs, combining salty and umami notes for a flavorful and satisfying dish.",
+        "price": 18.80,
+        "image": "../img/menu/Congee/SaltedPorkandPreservedEggCongee.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Seafood Congee",
+        "category": "Congee",
+        "description": "Congee enriched with a variety of seafood, such as shrimp, squid, and fish, creating a hearty and flavorful dish with a taste of the ocean.",
+        "price": 18.80,
+        "image": "../img/menu/Congee/SeafoodCongee.jpg",
+        "isTopSales": true
+    },
+    {
+        "id": 33,
+        "name": "Pork and Thousand Year Egg Congee",
+        "category": "Congee",
+        "description": "Congee featuring tender pieces of pork and the rich, pungent flavor of thousand-year eggs, offering a unique and indulgent combination of flavors.",
+        "price": 18.80,
+        "image": "../img/menu/Congee/PorkandThousandYearEggCongee.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Wat Tan Hor",
+        "category": "Da Chaow",
+        "description": "A Cantonese noodle dish consisting of wide rice noodles stir-fried with a silky egg-based sauce, typically containing ingredients such as chicken, shrimp, mushrooms, and leafy greens. The dish is savory, slightly sweet, and often garnished with green onio",
+        "price": 20.90,
+        "image": "../img/menu/DaChaow/WatTanHor.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Char Kuey Teow",
+        "category": "Da Chaow",
+        "description": "A popular Malaysian stir-fried noodle dish made with flat rice noodles, stir-fried over high heat with shrimp, Chinese sausage, eggs, bean sprouts, and chives. The dish is flavored with soy sauce, chili paste, and sometimes belacan (shrimp paste), giving ",
+        "price": 20.90,
+        "image": "../img/menu/DaChaow/CharKueyTeow.jpg",
+        "redeem": true,
+        "points": 700
+    },
+    {
+        "id": 36,
+        "name": "Chicken Fried Noodles",
+        "category": "Da Chaow",
+        "description": "Stir fried noodles made with tender pieces of chicken, assorted vegetables such as carrots, bell peppers, and cabbage, and seasoned with soy sauce, garlic, and other spices. It is a comforting and filling dish commonly found in Chinese cuisine.",
+        "price": 20.90,
+        "image": "../img/menu/DaChaow/ChickenFriedNoodles.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Spicy Cold Rice Noodles",
+        "category": "Da Chaow",
+        "description": "A refreshing dish consisting of cold rice noodles tossed in a spicy sauce made from chili oil, soy sauce, vinegar, and garlic, often served with shredded vegetables and herbs for added texture and flavor. It is a popular street food in many Asian countrie",
+        "price": 20.90,
+        "image": "../img/menu/DaChaow/SpicyColdRiceNoodles.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Chicken Fried Rice",
+        "category": "Da Chaow",
+        "description": "A classic Chinese dish made by stir-frying cooked rice with diced chicken, eggs, vegetables, and soy sauce. It is a simple yet satisfying meal that can be customized with various ingredients and seasonings.",
+        "price": 20.90,
+        "image": "../img/menu/DaChaow/ChickenFriedRice.jpg"
+    },
+      {
+          "id": 39,
+          "name": "Fried Black Hokkien Mee",
+          "category": "Da Chaow",
+          "description": "A Singaporean and Malaysian dish featuring thick yellow noodles stir fried with seafood, pork, cabbage, and bean sprouts in a savory sauce made from soy sauce and oyster sauce. The dish often has a smoky flavor from being cooked on a hot wok.",
+          "price": 20.90,
+          "image": "../img/menu/DaChaow/FriedBlackHokkienMee.jpg"
+      },
+      {
+          "id": 40,
+          "name": "Garlic Pork Fried Rice",
+          "category": "Da Chaow",
+          "description": "Fried rice made with diced pork marinated in garlic and soy sauce, stir-fried with cooked rice, eggs, and vegetables like peas and carrots. The dish is aromatic and flavorful, with the garlic infused pork adding a delicious savory element.",
+          "price": 20.90,
+          "image": "../img/menu/DaChaow/GarlicPorkFriedRice.jpg"
+      },
+      {
+          "id": 41,
+          "name": "Pineapple Fried Rice",
+          "category": "Da Chaow",
+          "description": "A Thai inspired dish made by stir frying cooked rice with diced pineapple, shrimp, chicken, cashews, and vegetables such as bell peppers and onions, seasoned with curry powder, soy sauce, and fish sauce. It is a sweet and savory dish with a tropical twist",
+          "price": 20.90,
+          "image": "../img/menu/DaChaow/PineappleFriedRice.jpg"
+      },
+      {
+          "id": 42,
+          "name": "Seafood Fried Rice",
+          "category": "Da Chaow",
+          "description": "Fried rice cooked with an assortment of seafood such as shrimp, squid, and fish, along with vegetables and eggs, seasoned with soy sauce, garlic, and other spices. It is a flavorful and satisfying dish that showcases the freshness of the seafood.",
+          "price": 20.90,
+          "image": "../img/menu/DaChaow/SeafoodFriedRice.jpg"
+      },
+      {
+          "id": 43,
+          "name": "Anchovy Fried Rice",
+          "category": "Da Chaow",
+          "description": "Fried rice cooked with anchovies and salted fish, giving the dish a strong umami flavor. It is typically seasoned with soy sauce, garlic, and chili for added depth of taste, creating a delicious and aromatic dish commonly found in Asian cuisine.",
+          "price": 20.90,
+          "image": "../img/menu/DaChaow/AnchovyFriedRice.jpg"
+      },
+      {
+          "id": 44,
+          "name": "Bird Nest Soup",
+          "category": "Desserts",
+          "description": "A delicacy in Chinese cuisine made from the edible nests of swiftlets. The nests are typically dissolved in water to form a gelatinous texture and served in a broth made from chicken or other meats. It is prized for its supposed health benefits and delic",
+          "price": 10.80,
+          "image": "../img/menu/Desserts/BirdNestSoup.jpg"
+      },
+      {
+          "id": 45,
+          "name": "Black Sesame Dumplings",
+          "category": "Desserts",
+          "description": "A Chinese dessert made from glutinous rice flour dough filled with sweet black sesame paste, then boiled and coated in a coating made from crushed peanuts, sesame seeds, or coconut. The dumplings are often served in a sweet syrup.",
+          "price": 10.80,
+          "image": "../img/menu/Desserts/BlackSesameDumplings.jpg"
+      },
+      {
+          "id": 46,
+          "name": "Bubur Cha Cha",
+          "category": "Desserts",
+          "description": "A traditional Malaysian and Singaporean dessert consisting of a coconut milk based soup with taro, sweet potatoes, tapioca pearls, and sometimes pandan-flavored jelly. It is sweet, creamy, and often served warm.",
+          "price": 10.80,
+          "image": "../img/menu/Desserts/BuburChaCha.jpg"
+      },
+      {
+          "id": 47,
+          "name": "Water Chestnut Sweet Soup",
+          "category": "Desserts",
+          "description": "A Chinese dessert soup made from water chestnuts, which are simmered in a sweet syrup flavored with rock sugar and sometimes infused with pandan leaves or osmanthus flowers. It is refreshing and lightly sweet.",
+          "price": 10.80,
+          "image": "../img/menu/Desserts/WaterChestnutSweetSoup.jpg"
+      },
+      {
+          "id": 48,
+          "name": "Green Bean Soup",
+          "category": "Desserts",
+          "description": "A popular Chinese dessert soup made from mung beans, which are cooked until soft and blended into a smooth, sweet soup. It is often flavored with rock sugar and sometimes served with glutinous rice balls or coconut milk.",
+          "price": 10.80,
+          "image": "../img/menu/Desserts/GreenBeanSoup.jpg",
+          "redeem": true,
+          "points": 300
+      },
+      {
+          "id": 49,
+          "name": "Gui Ling Gao",
+          "category": "Desserts",
+          "description": " A Chinese dessert made from the herbal jelly, typically containing various medicinal herbs, such as turtle shell, rhizome, and other botanicals. It is believed to have cooling properties and is often served chilled with a sweet syrup.",
+          "price": 10.80,
+          "image": "../img/menu/Desserts/GuiLingGao.jpg"
+      },
+      {
+          "id": 50,
+          "name": "Mango Sago",
+          "category": "Desserts",
+          "description": "A refreshing Hong Kong dessert made from ripe mangoes, coconut milk, sago pearls, and sometimes pomelo pulp. It is sweet, creamy, and often served chilled, making it a popular choice during hot weather.",
+          "price": 10.80,
+          "image": "../img/menu/Desserts/MangoSago.jpg",
+          "isTopSales": true
+      },
+      {
+          "id": 51,
+          "name": "Red Bean Soup",
+          "category": "Desserts",
+          "description": "A classic Chinese dessert soup made from boiled red beans, which are simmered until soft and sweetened with rock sugar. It is often flavored with a hint of pandan or served with glutinous rice balls.",
+          "price": 10.80,
+          "image": "../img/menu/Desserts/RedBeanSoup.jpg"
+      },
+      {
+          "id": 52,
+          "name": "Sea Coconut And Longan",
+          "category": "Desserts",
+          "description": "A Southeast Asian dessert soup made from sea coconut strips and longan fruit, which are simmered in a sweet syrup flavored with rock sugar. It is refreshing and often served chilled.",
+          "price": 10.80,
+          "image": "../img/menu/Desserts/SeaCoconutAndLongan.jpg"
+      },
+      {
+          "id": 53,
+          "name": "Sweet Potato Sweet Soup",
+          "category": "Desserts",
+          "description": "A simple Chinese dessert soup made from sweet potatoes, which are boiled until soft and then blended into a smooth soup with a sweet and creamy texture. It is often flavored with ginger or rock sugar for added depth of flavor.",
+          "price": 10.80,
+          "image": "../img/menu/Desserts/SweetPotatoSweetSoup.jpg"
+      },
+      {
+          "id": 54,
+          "name": "Sambal Kang Kong",
+          "category": "Others",
+          "description": "A dish featuring water spinach stir fried with sambal, a spicy chili paste commonly used in Southeast Asian cuisine.",
+          "price": 18.80,
+          "image": "../img/menu/Desserts/SambalKangKong.jpg"
+      },
+      {
+          "id": 55,
+          "name": "Spicy Paku Pakis",
+          "category": "Others",
+          "description": "A dish made with paku pakis (fern) stir fried with a spicy chili paste. It is often enjoyed for its unique flavor and spicy kick.",
+          "price": 18.80,
+          "image": "../img/menu/Others/SpicyPakuPakis.jpg"
+      },
+      {
+        "id": 56,
+        "name": "Golden Beancurd Skin Rolls",
+        "category": "Others",
+        "description": "Crispy bean curd skin wrapped around a savory filling, usually containing vegetables or meat, and deep fried until golden brown.",
+        "price": 18.80,
+        "image": "../img/menu/Others/GoldenBeancurdSkinRolls.jpg"
+      },
+      {
+          "id": 57,
+          "name": "Stir fried sweet potato leaves",
+          "category": "Others",
+          "description": "Sweet potato leaves stir fried with seasonings, creating a nutritious and flavorful vegetable dish.",
+          "price": 18.80,
+          "image": "../img/menu/Others/Stirfriedsweetpotatoleaves.jpg"
+      },
+      {
+          "id": 58,
+          "name": "Cooked Lettuce with Oyster Sauce and Garlic",
+          "category": "Others",
+          "description": "Lettuce leaves cooked until tender with oyster sauce and garlic, resulting in a savory and aromatic dish.",
+          "price": 18.80,
+          "image": "../img/menu/Others/CookedLettucewithOysterSauceandGarlic.jpg"
+      },
+      {
+          "id": 59,
+          "name": "Spicy and Sour Dumpling",
+          "category": "Others",
+          "description": "Dumplings filled with a spicy and sour mixture, typically made with minced meat, vegetables, and spices, then steamed or fried.",
+          "price": 18.80,
+          "image": "../img/menu/Others/SpicyandSourDumpling.jpg",
+          "redeem": true,
+          "points": 500
+      },
+      {
+          "id": 60,
+          "name": "Spicy sambal bitter bean with egg",
+          "category": "Others",
+          "description": "Bitter beans cooked in spicy sambal sauce with scrambled eggs, creating a bold and flavorful dish.",
+          "price": 18.80,
+          "image": "../img/menu/Others/Spicysambalbitterbeanwithegg.jpg"
+      },
+      {
+          "id": 61,
+          "name": "Stir fried pork with bitter melon",
+          "category": "Others",
+          "description": "Pork stir fried with bitter melon, a vegetable known for its bitter taste, resulting in a savory and slightly bitter dish.",
+          "price": 18.80,
+          "image": "../img/menu/Others/Stirfriedporkwithbittermelon.jpg"
+      },
+      {
+          "id": 62,
+          "name": "Stir fried Sambal Okra",
+          "category": "Others",
+          "description": "Okra stir fried with sambal sauce, offering a spicy and flavorful twist to this popular vegetable dish.",
+          "price": 18.80,
+          "image": "../img/menu/Others/StirfriedSambalOkra.jpg"
+      },
+      {
+          "id": 63,
+          "name": "Vegan Mapo Tofu",
+          "category": "Others",
+          "description": "A vegan version of the classic Sichuan dish, Mapo Tofu, made with tofu cooked in a spicy and aromatic sauce made from fermented broad bean paste, chili oil, and Sichuan peppercorns, without using any animal products.",
+          "price": 18.80,
+          "image": "../img/menu/Others/VeganMapoTofu.jpg"
+      },
+      {
+          "id": 64,
+          "name": "Pork Trotters in Vinegar",
+          "category": "Pork",
+          "description": "A dish consisting of pork trotters stewed in vinegar, soy sauce, and various seasonings until tender, resulting in a savory and tangy flavor profile.",
+          "price": 38.80,
+          "image": "../img/menu/Pork/PorkTrottersinVinegar.jpg"
+      },
+      {
+          "id": 65,
+          "name": "Tung Bo Rou",
+          "category": "Pork",
+          "description": "Dongpo pork, a Chinese dish made by braising pork belly in a flavorful mixture of soy sauce, rice wine, sugar, and spices until the meat is tender and the fat is melt in your mouth delicious.",
+          "price": 28.80,
+          "image": "../img/menu/Pork/TungBoRou.jpg"
+      },
+      {
+          "id": 66,
+          "name": "Roasted Pork",
+          "category": "Pork",
+          "description": "Pork that has been seasoned and roasted until the exterior is crispy and golden brown, while the interior remains juicy and flavorful.",
+          "price": 28.80,
+          "image": "../img/menu/Pork/RoastedPork.jpg"
+      },
+      {
+          "id": 67,
+          "name": "Char Siu",
+          "category": "Pork",
+          "description": "Chinese barbecue pork, typically made from marinated pork shoulder or belly roasted or grilled until the exterior is caramelized and slightly charred, offering a sweet and savory flavor.",
+          "price": 25.80,
+          "image": "../img/menu/Pork/CharSiu.jpg",
+          "redeem": true,
+          "points": 850
+      },
+      {
+          "id": 68,
+          "name": "Fried Pork Dumplings",
+          "category": "Pork",
+          "description": "Dumplings filled with seasoned ground pork, wrapped in dough, and then fried until golden brown and crispy, resulting in a delicious savory snack or appetizer.",
+          "price": 15.80,
+          "image": "../img/menu/Pork/FriedPorkDumplings.jpg"
+      },
+      {
+          "id": 69,
+          "name": "Hunan Pork",
+          "category": "Pork",
+          "description": "A dish featuring sliced pork stir-fried with aromatic spices, chili peppers, and vegetables in the Hunan province style, known for its bold flavors and spicy kick.",
+          "price": 25.80,
+          "image": "../img/menu/Pork/HunanPork.jpg"
+      },
+      {
+          "id": 70,
+          "name": "Kong Bak Bao",
+          "category": "Pork",
+          "description": "A Chinese steamed bun filled with braised pork belly, often flavored with soy sauce, garlic, and spices, offering a savory and satisfying treat.",
+          "price": 25.80,
+          "image": "../img/menu/Pork/KongBakBao.jpg"
+      },
+      {
+          "id": 71,
+          "name": "Mala Pork Dumpling",
+          "category": "Pork",
+          "description": "Dumplings filled with minced pork and seasoned with mala sauce, a spicy and numbing Sichuan pepper based sauce, offering a flavorful and fiery experience.",
+          "price": 15.80,
+          "image": "../img/menu/Pork/MalaPorkDumpling.jpg"
+      },
+      {
+          "id": 72,
+          "name": "Braised Pork Belly in Soy Sauce",
+          "category": "Pork",
+          "description": "Pork belly simmered in a mixture of soy sauce, sugar, spices, and aromatics until tender and flavorful, resulting in a rich and savory dish.",
+          "price": 25.80,
+          "image": "../img/menu/Pork/BraisedPorkBellyinSoySauce.jpg"
+      },
+      {
+          "id": 73,
+          "name": "Garlic Scape Stir Fry with Pork",
+          "category": "Pork",
+          "description": "Stir fried garlic scapes and sliced pork, seasoned with soy sauce, garlic, and other seasonings, creating a simple yet delicious dish with vibrant flavors.",
+          "price": 25.80,
+          "image": "../img/menu/Pork/GarlicScapeStirFrywithPork.jpg"
+      },
+      {
+          "id": 74,
+          "name": "Creamy Butter Garlic Crab",
+          "category": "Seafood",
+          "description": "Fresh crab cooked in a creamy butter sauce infused with garlic, resulting in a rich and indulgent dish bursting with flavor.",
+          "price": 88.80,
+          "image": "../img/menu/Seafood/CreamyButterGarlicCrab.jpg"
+      },
+      {
+          "id": 75,
+          "name": "Tiger Prawns in Garlic Ginger Soy Sauce",
+          "category": "Seafood",
+          "description": "Large tiger prawns cooked in a savory sauce made from garlic, ginger, and soy sauce, offering a delicious blend of aromatics and umami flavors.",
+          "price": 68.80,
+          "image": "../img/menu/Seafood/TigerPrawnsinGarlicGingerSoySauce.jpg"
+      },
+      {
+          "id": 76,
+          "name": "Cantonese Steamed Fish",
+          "category": "Seafood",
+          "description": "A classic Cantonese dish featuring fresh fish steamed with ginger, green onions, and soy sauce, resulting in a tender and flavorful seafood delicacy.",
+          "price": 99.99,
+          "image": "../img/menu/Seafood/CantoneseSteamedFish.jpg"
+      },
+      {
+          "id": 77,
+          "name": "Curry Fish",
+          "category": "Seafood",
+          "description": "Fish cooked in a fragrant curry sauce made from spices, coconut milk, and other seasonings, offering a flavorful and aromatic dish with a hint of heat.",
+          "price": 99.99,
+          "image": "../img/menu/Seafood/CurryFish.jpg"
+      },
+      {
+          "id": 78,
+          "name": "Oatmeal Cereal Butter Prawns",
+          "category": "Seafood",
+          "description": "Prawns coated in a crispy oatmeal cereal batter and then fried until golden brown, served with a buttery sauce for a crunchy and indulgent seafood treat.",
+          "price": 68.80,
+          "image": "../img/menu/Seafood/OatmealCerealButterPrawns.jpg"
+      },
+      {
+          "id": 79,
+          "name": "Si Chuan Boiled Fish",
+          "category": "Seafood",
+          "description": "A spicy and numbing Sichuan dish consisting of tender fish fillets boiled in a flavorful broth infused with Sichuan peppercorns, chili peppers, and other spices.",
+          "price": 99.99,
+          "image": "../img/menu/Seafood/SiChuanBoiledFish.jpg"
+      },
+      {
+          "id": 80,
+          "name": "Seafood Tofu Stew",
+          "category": "Seafood",
+          "description": "A comforting stew made with tofu and assorted seafood such as shrimp, fish, and squid, simmered in a savory broth flavored with soy sauce, ginger, and garlic.",
+          "price": 58.80,
+          "image": ".../img/menu/Seafood/SeafoodTofuStew.jpg",
+          "redeem": true,
+          "points": 1200
+      },
+      {
+          "id": 81,
+          "name": "Tamarind Prawns",
+          "category": "Seafood",
+          "description": "Prawns cooked in a tangy and sweet tamarind sauce, offering a delightful balance of flavors that is both refreshing and satisfying.",
+          "price": 68.80,
+          "image": "../img/menu/Seafood/TamarindPrawns.jpg"
+      },
+      {
+          "id": 82,
+          "name": "Sweet and Sour Fish",
+          "category": "Seafood",
+          "description": "Fish fillets coated in a sweet and tangy sauce made from vinegar, sugar, and ketchup, then stir fried with bell peppers, onions, and pineapple for a colorful and flavorful dish.",
+          "price": 99.99,
+          "image": "../img/menu/Seafood/SweetandSourFish.jpg"
+      },
+      {
+          "id": 83,
+          "name": "Fish Skin Chips",
+          "category": "Seafood",
+          "description": "Crispy chips made from fish skin, often seasoned with salt or other spices, offering a crunchy and savory snack that is popular in many Asian cuisines.",
+          "price": 28.80,
+          "image": "../img/menu/Seafood/FishSkinChips.jpg",
+          "redeem": true,
+          "points": 800
+      },
+      {
+          "id": 84,
+          "name": "Herbal Chicken Soup",
+          "category": "Soup",
+          "description": "A nourishing soup made by simmering chicken with a blend of Chinese herbs, resulting in a flavorful and aromatic broth believed to have various health benefits.",
+          "price": 25.80,
+          "image": "../img/menu/Soup/HerbalChickenSoup.jpg",
+          "isTopSales": true
+      },
+      {
+          "id": 85,
+          "name": "Fish Head Soup",
+          "category": "Soup",
+          "description": "A soup made using the head of a fish, typically simmered with vegetables and aromatics to create a rich and flavorful broth with tender pieces of fish meat.",
+          "price": 20.80,
+          "image": "../img/menu/Soup/FishHeadSoup.jpg"
+      },
+      {
+          "id": 86,
+          "name": "Lotus Root Soup",
+          "category": "Soup",
+          "description": "A Chinese soup made with lotus root, often combined with pork ribs, peanuts, and red dates, resulting in a sweet and savory broth with a crunchy texture from the lotus root slices.",
+          "price": 18.80,
+          "image": "../img/menu/Soup/LotusRootSoup.jpg"
+      },
+      {
+          "id": 87,
+          "name": "Seaweed and Egg Drop Soup",
+          "category": "Soup",
+          "description": "A light and comforting soup made with seaweed and beaten eggs, often seasoned with soy sauce, sesame oil, and green onions for added flavor.",
+          "price": 18.80,
+          "image": "../img/menu/Soup/SeaweedandEggDropSoup.jpg"
+      },
+      {
+          "id": 88,
+          "name": "Herbal Silkie Chicken Soup",
+          "category": "Soup",
+          "description": "A traditional Chinese soup made with Silkie chicken, a breed known for its black skin and dark flesh, simmered with Chinese herbs to create a nourishing and flavorful broth.",
+          "price": 25.80,
+          "image": "../img/menu/Soup/HerbalSilkieChickenSoup.jpg"
+      },
+      {
+          "id": 89,
+          "name": "Fish Maw Soup",
+          "category": "Soup",
+          "description": "A luxurious Chinese soup made from the swim bladder of certain species of fish, simmered with chicken broth and often combined with mushrooms and vegetables for a delicate and gelatinous texture.",
+          "price": 20.80,
+          "image": "../img/menu/Soup/FishMawSoup.jpg"
+      },
+      {
+          "id": 90,
+          "name": "Fish Ball Soup",
+          "category": "Soup",
+          "description": "A simple and comforting soup made with fish balls, which are made from minced fish meat and seasonings, simmered in a clear broth with vegetables or noodles.",
+          "price": 18.80,
+          "image": "../img/menu/Soup/FishBallSoup.jpg",
+          "redeem": true,
+          "points": 500
+      },
+      {
+          "id": 91,
+          "name": "Clam Chowder Soup",
+          "category": "Soup",
+          "description": "A creamy soup made with clams, potatoes, onions, celery, and sometimes bacon, cooked in a rich broth made from milk or cream, offering a hearty and comforting flavor.",
+          "price": 25.80,
+          "image": "../img/menu/Soup/ClamChowderSoup.jpg"
+      },
+      {
+          "id": 92,
+          "name": "Chicken Feet Soup",
+          "category": "Soup",
+          "description": "A Chinese soup made by simmering chicken feet with aromatics and herbs to create a flavorful broth with a gelatinous texture believed to have health benefits for joints and skin.",
+          "price": 18.80,
+          "image": "../img/menu/Soup/ChickenFeetSoup.jpg"
+      },
+      {
+          "id": 93,
+          "name": "ABC Soup",
+          "category": "Soup",
+          "description": "A popular Singaporean soup made with potatoes, carrots, tomatoes, and sometimes onions, cooked in a clear broth with pork ribs or chicken, offering a simple and nutritious meal.",
+          "price": 18.80,
+          "image": "../img/menu/Soup/ABCSoup.jpg"
+      }
+      
+    ]
+  

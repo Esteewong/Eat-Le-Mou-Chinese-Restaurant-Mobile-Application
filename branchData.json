@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "state": "Selangor",
+        "name": "EAT LE MOU IOI CITY MALL",
+        "address": "LG-059 Lower Ground Floor, Mid Valley Megamall, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+        "contactNo": "03-54337888",
+        "email": "ioicitymall@eatlemou.my"
+    },
+    {
+        "id": 2,
+        "state": "Selangor",
+        "name": "EAT LE MOU SUMWAY PYRAMID",
+        "address": "OB.K9, GROUND FLOOR, SUNWAY PYRAMID, JALAN PJS 11/15, BANDAR SUNWAY, 47500 PETALING JAYA, SELANGOR.",
+        "contactNo": "03-24678889",
+        "email": "swpm@eatlemou.my"
+    },
+    {
+        "id": 3,
+        "state": "Selangor",
+        "name": "EAT LE MOU MID VALLEY MEGAMALL",
+
+        "address": "3F-01 (A), QUEENSBAY MALL, PERSIARAN BAYAN BARU, 11900 BAYAN, PULAU PINANG.",
+        "contactNo": "03-88896663",
+        "email": "mvmm@eatlemou.my"
+    },
+    {
+        "id": 4,
+        "state": "Melaka",
+        "name": "EAT LE MOU AEON BANDARAYA MELAKA",
+        "address": "G-51, GROUND FLOOR, AEON BANDARAYA MELAKA, JALAN LAGENDA, TAMAN 1-LAGENDA, 75400 MELAKA.",
+        "contactNo": "03-55557888",
+        "email": "abm@eatlemou.my"
+    },
+    {
+        "id": 5,
+        "state": "Penang",
+        "name": "EAT LE MOU QUEENBAY MALL",
+        "address": "3F-01 (A), QUEENSBAY MALL, PERSIARAN BAYAN BARU, 11900 BAYAN, PULAU PINANG.",
+        "contactNo": "03-65552222",
+        "email": "qbm@eatlemou.my"
+    }
+  ]
+  
